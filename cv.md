@@ -85,7 +85,7 @@ Technical support of the site on Bitrix, content updating, work with the online 
 
 >Code examples:
 
-1) [](https://github.com/atata2008/Cappadocia_my)
-2) [](https://github.com/atata2008/atata2008.github.io)
-3) [](https://github.com/atata2008/foodLLC)
-4) [](https://github.com/atata2008/my_learn)
+1) [Проект Каппадокия](https://github.com/atata2008/Cappadocia_my)
+2) [Проект №1 Coursera](https://github.com/atata2008/atata2008.github.io)
+3) [Проект №2 Coursera](https://github.com/atata2008/foodLLC)
+4) [Проект Openedu](https://github.com/atata2008/my_learn)
