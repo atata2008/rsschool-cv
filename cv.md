@@ -1,15 +1,12 @@
 ## **Tatiana Averkova** ##
-##### Female #####
-
-+7 (920) 7565681 — preferred means of communication
-averkova.tatyana@gmail.com
-##### Reside in: Tula ######
-
-> About:
-
-I’m a trainee developer. I am studying web development.
+I’m a trainee web developer. 
 
 > Work experience:
+
+*September 2020 — currently*\
+*RSSchool*\
+**Trainee developer**\
+I am studying JavaScript.\
 
 *April 2020 — June 2020*\
 *Fullstack Development*\
@@ -44,6 +41,11 @@ Technical support of the site on Bitrix, content updating, work with the online 
 ##### Higher #####
 *1994	Tula State Pedagogical University. L.N. Tolstoy*\
 **Faculty of Mathematics, Math**
+
+> How to reach me
+
++7 (920) 7565681 — preferred means of communication\
+averkova.tatyana@gmail.com
 
 > Professional development, courses
 
@@ -81,9 +83,10 @@ Technical support of the site on Bitrix, content updating, work with the online 
 * Basic understanding of SQL and the principles of building relational databases;
 * understanding client-server architecture;
 * knowledge and understanding of OOP principles;
-* I am learning JavaScript.
+* I am learning JavaScript.\
+Reside in: Tula, Russia
 
->Code examples:
+> Code examples:
 
 1) [Проект Каппадокия](https://github.com/atata2008/Cappadocia_my)
 2) [Проект №1 Coursera](https://github.com/atata2008/atata2008.github.io)
