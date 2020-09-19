@@ -32,9 +32,9 @@ Technical support of the site on Bitrix, content updating, work with the online 
 
 *April 2013 — July 2013*\
 *GAO Information Technology Center*\
-**Analyst (Tula, citto.tularegion.ru)**\
-*Work in the department of state services GAO CIT (210-FZ);
-*Analysis of the regulations of the existing procedure for the provision of state and municipal services. Business correspondence, interaction with project participants.
+**Analyst (Tula, citto.tularegion.ru)**
+* Work in the department of state services GAO CIT (210-FZ);
+* Analysis of the regulations of the existing procedure for the provision of state and municipal services. Business correspondence, interaction with project participants.
 
 > Education
 
