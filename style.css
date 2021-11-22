@@ -1,0 +1,133 @@
+body {
+    display: flex;
+    flex-direction: column;
+    color: rgb(59, 48, 48);
+    margin: 0;
+    font-size: 14px;
+    font-family: Verdana, Tahoma, sans-serif;
+    min-width: 350px;
+    min-height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    border-bottom: none;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+
+.header__gray {
+    display: flex;
+    height: 200px;
+    background-color: #CFD6DD;
+}
+
+.header__white {
+    display: flex;
+    height: 250px;
+    background-color: #ffffff;
+
+}
+.header__line{
+    display: flex;
+    height: 2px;
+    background-color: #CFD6DD;
+}
+
+.header__info {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    justify-content: center;
+    top: 50px;
+    z-index: 1;
+    padding: 0 calc(50% - 156px);
+}
+.header__info-about{
+   text-align: center;
+}
+
+.header__h1 {
+    padding-left: 50px;
+    font-size: 1.8em;
+    color: #4a4d46;
+}
+
+a {
+    color: inherit;
+}
+
+.main__conteiner {
+    flex: 1;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.main__h2 {
+    text-align: center;
+}
+
+.block {
+    margin: 0 0 15px 0;
+    background-color: #ffffff;
+    height: auto;
+    width: 440px;
+    margin: 8px 5px;
+    padding: 15px 15px;
+}
+
+.conteiner__block2 {
+    width: 2px;
+    padding: 0;
+    background-color: #CFD6DD;
+}
+
+.block__h3 {
+    text-align: center;
+    justify-content: space-around;
+}
+
+.footer {
+    font-size: .8em;
+    text-align: center;
+    background-color: #CFD6DD;
+    margin: 1.5em 0 0 0;
+    /*Прижать футер вниз, если родитель flex*/
+    margin-top: auto;
+}
+
+.colors {
+    color: #4a4d46;
+    font-size: 15px;
+    font-weight: bold;
+}
+@media all and (min-width:1045px) {
+
+    .block-link {
+        visibility: hidden;
+    }
+
+    .main__conteiner {
+        max-width: 1300px;
+        margin: auto;
+    }
+}
+
+@media (max-width:1046px) and (min-width:350px) {
+
+    .block-link {
+        visibility: visible;
+        display: block;
+    }
+   .conteiner__block2 {
+        visibility: hidden;
+    }
+    .conteiner__block1{
+        margin-left: 75px;
+    }
+}
